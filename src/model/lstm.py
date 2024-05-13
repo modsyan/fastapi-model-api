@@ -1,14 +1,4 @@
 
-
-class Model: 
-
-  def train():
-      # Save model
-      # model.save("models/lstm.h5")
-      # return model
-      return
-
-  def predict():
-      # model = load_model("models/lstm.h5")
-      # return model
-      return
+class Lstm():
+  def __init__(self) -> None:
+    pass
